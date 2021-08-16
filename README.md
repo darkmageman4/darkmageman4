@@ -10,7 +10,7 @@
                                                      
 # Let's connect!
 
--   :handshake: Lets connect via LinkedIn [profile](https://www.linkedin.com/in/wagner-charles/). I'm always happy to chat with fellow developers.
+-   :handshake: Lets connect via [LinkedIn](https://www.linkedin.com/in/wagner-charles/). I'm always happy to chat with fellow developers.
                                                    
                                                      
 <!---
